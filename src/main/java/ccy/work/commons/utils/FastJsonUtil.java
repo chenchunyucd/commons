@@ -13,7 +13,7 @@ import java.util.Map;
  * JSON 工具转换
  * Created by chenchunyu on 2016/11/3.
  */
-public class FastJsonUtils {
+public class FastJsonUtil {
 
     private static SerializeConfig mapping = new SerializeConfig();
 
