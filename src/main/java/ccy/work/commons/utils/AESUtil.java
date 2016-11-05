@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 /**
  * AES加密解密工具类
- * chenchunyu
+ * chenchunyu 1212
  */
 public class AESUtil {
 	
