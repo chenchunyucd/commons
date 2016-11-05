@@ -10,6 +10,9 @@ import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * AES加密解密工具类
+ */
 public class AESUtil {
 	
 	public static final String AES_ENCODE_FORMAT = "UTF-8";//"UTF-16LE";
